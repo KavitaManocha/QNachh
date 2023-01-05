@@ -48,4 +48,8 @@
     <string name="server_error">Server Error!</string>
     <string name="unknown_host_exception">Service is not available ,Please try after some time</string>
     <string name="socket_timeout_exception">Please try again</string>
+    <string name="app_version">app version</string>
+    <string name="oops">Oops</string>
+    <string name="rooted_device">Your device seems to have root access kindly disable the root access before installing qNach app</string>
+
 </resources>

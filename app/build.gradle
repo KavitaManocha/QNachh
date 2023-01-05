@@ -106,6 +106,9 @@ dependencies {
 
     //===============Timber ===========
     implementation 'com.jakewharton.timber:timber:5.0.1'
+
+    // rootbear lib to check whether phone is rooted or not
+    implementation 'com.scottyab:rootbeer-lib:0.1.0'
 }
 
 // Allow references to generated code
