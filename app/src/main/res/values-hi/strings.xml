@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">सेटिंग्स</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">पहला टुकड़ा</string>
+    <string name="second_fragment_label">दूसरा टुकड़ा</string>
+    <string name="next">अगला</string>
+    <string name="previous">पहले का</string>
+
+    <string name="no_internet">कृपया अपने इंटरनेट कनेक्शन की जाँच करें</string>
+    <string name="network_error">नेटवर्क त्रुटि, डेटा प्राप्त नहीं कर सका, कृपया पुन: प्रयास करें!</string>
+    <string name="server_error">सर्वर त्रुटि!</string>
+    <string name="unknown_host_exception">सेवा उपलब्ध नहीं है, कृपया कुछ समय बाद प्रयास करें</string>
+    <string name="socket_timeout_exception">कृपया पुन: प्रयास करें</string>
+    <string name="app_version">एप्लिकेशन वेरीज़न</string>
+    <string name="oops">उफ़</string>
+    <string name="rooted_device">ऐसा लगता है कि आपके डिवाइस में रूट एक्सेस है कृपया qNach ऐप इंस्टॉल करने से पहले रूट एक्सेस को अक्षम कर दें</string>
+    <string name="language">भाषा</string>
+    <string name="select_a_lang">अपने ऐप के लिए एक भाषा चुनें</string>
+</resources>

@@ -6,7 +6,7 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="lorem_ipsum">
+    <string name="lorem_ipsum" translatable="false">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
         dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
@@ -51,5 +51,7 @@
     <string name="app_version">app version</string>
     <string name="oops">Oops</string>
     <string name="rooted_device">Your device seems to have root access kindly disable the root access before installing qNach app</string>
+    <string name="language">Language</string>
+    <string name="select_a_lang">Select a Language for your App</string>
 
 </resources>

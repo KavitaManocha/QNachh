@@ -109,6 +109,10 @@ dependencies {
 
     // rootbear lib to check whether phone is rooted or not
     implementation 'com.scottyab:rootbeer-lib:0.1.0'
+
+    //================== Sdp and Ssp for text and view=================================
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
 }
 
 // Allow references to generated code

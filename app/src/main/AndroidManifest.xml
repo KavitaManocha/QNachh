@@ -17,6 +17,13 @@
         android:theme="@style/Theme.MVVMTemplate"
         tools:targetApi="31">
         <activity
+            android:name="com.skrninja.ui.components.selectlanguage.SelectLanguageActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.skrninja.ui.components.splashScreen.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
